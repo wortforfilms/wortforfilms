@@ -12,3 +12,9 @@ You can click the Preview link to take a look at your changes.
 ```md
 ![TLP's GitHub stats](https://www.thelineproducer.com/api?username=wortforfilms&show_icons=true)
 ```
+<details>
+<summary>:eyes: Show example</summary>
+
+![Anurag's GitHub stats](https://www.thelineproducer.com/api?username=wortforfilms&show_icons=true&theme=transparent)
+
+</details>
