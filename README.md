@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ```md
-![TLP's GitHub stats](https://www.thelineproducer.com/api?username=wortforfilms)](https://github.com/wortforfilms/tlp)
+![TLP's GitHub stats](https://www.thelineproducer.com/api?username=wortforfilms&show_icons=true)
 ```
