@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary>:zap: Show stats</summary>
 
-<img align="left"alt="stats" src="https://www.thelineproducer.com/api?username=wortforfilms&show_icons=true&theme=transparent"/>
+<img align="left" alt="stats" src="https://www.thelineproducer.com/api?username=wortforfilms&show_icons=true&theme=transparent"/>
 
 </details>
